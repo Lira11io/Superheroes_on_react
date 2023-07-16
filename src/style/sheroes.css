@@ -1,0 +1,17 @@
+.superheroe-container {
+  text-align: center;
+  background-color: bisque;
+  border-radius: 15px;
+}
+
+.superheroe-title {
+  font-family: "Rubik Wet Paint", cursive;
+}
+
+.superheroe-img {
+  max-width: 25rem;
+  width: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  margin-bottom: 1em;
+}
