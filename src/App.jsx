@@ -17,7 +17,8 @@ function App() {
             superpowers={shero.superpowers}
             url={shero.url}
             info={shero.info}
-          ></Superheroes>
+            key={shero.name}
+          />
         ))}
       </div>
     </section>
